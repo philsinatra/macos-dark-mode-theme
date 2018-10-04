@@ -47,10 +47,10 @@
 			"path": "images/sample-css.png"
 		}
 	],
-	"homepage": "",
+	"homepage": "https://github.com/philsinatra/macos-dark-mode-theme/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/philsinatra/macos-dark-mode-theme.git"
 	},
 	"contributes": {
 		"themes": [{
