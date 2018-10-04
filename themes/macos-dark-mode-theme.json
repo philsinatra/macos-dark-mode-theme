@@ -5,10 +5,10 @@
 		"activityBar.background": "#2d2f32",
 		"activityBar.border": "#111111",
 		"activityBar.foreground": "#d9d9d9",
-		"activityBarBadge.background": "#1a8bfb",
+		"activityBarBadge.background": "#157dcd",
 		"activityBarBadge.foreground": "#ffffff",
 
-		"badge.background": "#1a8bfb",
+		"badge.background": "#157dcd",
 		"badge.foreground": "#ffffff",
 
 		"button.background": "#6d6d6d",
