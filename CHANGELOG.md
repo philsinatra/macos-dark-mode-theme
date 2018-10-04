@@ -1,6 +1,9 @@
 # Change Log
 
-All notable changes to the "popping-and-locking-vscode-black" extension will be documented in this file.
+All notable changes to the "macos-dark-mode-theme" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2018-10-04
+
+- 🎉 Initial Release
