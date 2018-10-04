@@ -2,7 +2,7 @@
 	"name": "macos-dark-mode-theme",
 	"displayName": "macOS Dark Mode",
 	"description": "A VSCode theme designed for macOS Dark Mode",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"publisher": "philsinatra",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -37,7 +37,8 @@
 		"color-theme",
 		"web development"
 	],
-	"screenshots": [{
+	"screenshots": [
+		{
 			"path": "images/sample-js.png"
 		},
 		{
@@ -53,12 +54,15 @@
 		"url": "https://github.com/philsinatra/macos-dark-mode-theme.git"
 	},
 	"contributes": {
-		"themes": [{
-			"label": "macOS Dark Mode Theme",
-			"uiTheme": "vs-dark",
-			"path": "./themes/macos-dark-mode-theme.json"
-		}],
-		"iconThemes": [{
+		"themes": [
+			{
+				"label": "macOS Dark Mode Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/macos-dark-mode-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
 				"id": "macos-modern-color-icon-theme",
 				"label": "MacOS Modern - Color Icon Theme",
 				"path": "./icon-theme-color/macos-modern-icon-theme.json"
