@@ -225,24 +225,16 @@
 			}
 		},
 		{
-			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": [
+				"entity.name",
+				"entity.static",
+				"entity.name.class.static.function",
+				"entity.name.function",
+				"entity.name.class",
+				"entity.name.type",
+				"entity.other.inherited-class"
+			],
 			"settings": {
-				"foreground": "#7ae3f7"
-			}
-		},
-		{
-			"name": "Inherited class",
-			"scope": "entity.other.inherited-class",
-			"settings": {
-				"foreground": "#7ae3f7"
-			}
-		},
-		{
-			"name": "Function name",
-			"scope": "entity.name.function",
-			"settings": {
-				"fontStyle": "",
 				"foreground": "#7ae3f7"
 			}
 		},
@@ -526,6 +518,98 @@
 			"scope": ["punctuation.definition.dictionary.begin.json"],
 			"settings": {
 				"foreground": "#ffffff"
+			}
+		},
+		{
+			"name": "Shell Variable",
+			"scope": ["variable.other.normal.shell"],
+			"settings": {
+				"foreground": "#94c6ca"
+			}
+		},
+		{
+			"scope": "markup.underline",
+			"settings": {
+				"fontStyle": "underline"
+			}
+		},
+		{
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#fe8019"
+			}
+		},
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#fe8019"
+			}
+		},
+		{
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "markup.inserted",
+			"settings": {
+				"foreground": "#b8bb26"
+			}
+		},
+		{
+			"scope": "markup.deleted",
+			"settings": {
+				"foreground": "#d65d0e"
+			}
+		},
+		{
+			"scope": "markup.changed",
+			"settings": {
+				"foreground": "#fe8019"
+			}
+		},
+		{
+			"scope": "markup.punctuation.quote.beginning",
+			"settings": {
+				"foreground": "#98971a"
+			}
+		},
+		{
+			"scope": "markup.punctuation.list.beginning",
+			"settings": {
+				"foreground": "#99c6ca"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#d65d0e"
+			}
+		},
+		{
+			"scope": "meta.selector",
+			"settings": {
+				"foreground": "#7ec16e"
+			}
+		},
+		{
+			"name": "Types declaration and references",
+			"scope": [
+				"meta.type.name",
+				"meta.return.type",
+				"meta.return-type",
+				"meta.cast",
+				"meta.type.annotation",
+				"support.type",
+				"storage.type.cs",
+				"storage.type.java",
+				"variable.class"
+			],
+			"settings": {
+				"foreground": "#fabd2f"
 			}
 		}
 	]
