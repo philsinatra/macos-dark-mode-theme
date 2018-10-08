@@ -214,7 +214,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
@@ -228,14 +228,14 @@
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
@@ -243,7 +243,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
@@ -299,7 +299,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#587EA8"
+				"foreground": "#7ae3f7"
 			}
 		},
 		{
