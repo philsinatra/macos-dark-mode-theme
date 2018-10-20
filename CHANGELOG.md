@@ -4,6 +4,10 @@ All notable changes to the "macos-dark-mode-theme" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2018-10-20
+
+- Change Pink & Orange Foreground Shades
+
 ## 2018-10-08
 
 - 💄 Change JS Storage/Entity Class Blue

@@ -168,21 +168,21 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#ff8170"
+				"foreground": "#ef9b51"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
@@ -192,7 +192,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
@@ -221,7 +221,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 			"name": "JSON Property Name",
 			"scope": ["support.type.property-name.json"],
 			"settings": {
-				"foreground": "#f977ae"
+				"foreground": "#efa8f1"
 			}
 		},
 		{
