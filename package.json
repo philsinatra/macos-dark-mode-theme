@@ -37,15 +37,29 @@
 		"color-theme",
 		"web development"
 	],
-	"screenshots": [
-		{
+	"screenshots": [{
 			"path": "images/sample-js.png"
+		},
+		{
+			"path": "images/sample-react.png"
 		},
 		{
 			"path": "images/sample-html.png"
 		},
 		{
 			"path": "images/sample-css.png"
+		},
+		{
+			"path": "images/sample-warm-js.png"
+		},
+		{
+			"path": "images/sample-warm-react.png"
+		},
+		{
+			"path": "images/sample-warm-html.png"
+		},
+		{
+			"path": "images/sample-warm-css.png"
 		}
 	],
 	"homepage": "https://github.com/philsinatra/macos-dark-mode-theme/blob/master/README.md",
@@ -54,15 +68,16 @@
 		"url": "https://github.com/philsinatra/macos-dark-mode-theme.git"
 	},
 	"contributes": {
-		"themes": [
-			{
-				"label": "macOS Dark Mode Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/macos-dark-mode-theme.json"
-			}
-		],
-		"iconThemes": [
-			{
+		"themes": [{
+			"label": "Dark Mode",
+			"uiTheme": "vs-dark",
+			"path": "./themes/dark-mode-theme.json"
+		}, {
+			"label": "Dark Mode Warm",
+			"uiTheme": "vs-dark",
+			"path": "./themes/dark-mode-warm-theme.json"
+		}],
+		"iconThemes": [{
 				"id": "macos-modern-color-icon-theme",
 				"label": "MacOS Modern - Color Icon Theme",
 				"path": "./icon-theme-color/macos-modern-icon-theme.json"

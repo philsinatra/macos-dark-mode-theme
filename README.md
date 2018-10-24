@@ -2,13 +2,17 @@
 
 ## About
 
-A VSCode theme designed for macOS Dark Mode.
+A VSCode theme designed for macOS Dark Mode. There are two versions of the theme. The first is based on the XCode dark mode color scheme, the second uses slightly warmer values for the orange and pink shades, and is based on recent devtools updates to the OS dark mode color scheme.
 
 ## Screenshots
 
 ### JavaScript
 
 ![JavaScript](images/sample-js.png)
+
+### React
+
+![React](images/sample-react.png)
 
 ### HTML
 
@@ -17,6 +21,22 @@ A VSCode theme designed for macOS Dark Mode.
 ### CSS
 
 ![CSS](images/sample-css.png)
+
+### JavaScript - Warm
+
+![JavaScript](images/sample-js-warm.png)
+
+### React - Warm
+
+![React](images/sample-react-warm.png)
+
+### HTML - Warm
+
+![HTML](images/sample-html-warm.png)
+
+### CSS - Warm
+
+![CSS](images/sample-css-warm.png)
 
 ## Related Customization
 

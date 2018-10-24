@@ -4,6 +4,12 @@ All notable changes to the "macos-dark-mode-theme" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2018-10-24
+
+- Add Alternative Theme
+
+Original XCode based theme and updated devtools based scheme are now available as unique themes.
+
 ## 2018-10-20
 
 - Change Pink & Orange Foreground Shades
