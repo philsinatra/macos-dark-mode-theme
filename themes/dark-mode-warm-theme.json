@@ -302,7 +302,7 @@
 			"settings": {
 				"background": "#F9267200",
 				"fontStyle": "",
-				"foreground": "#255E22"
+				"foreground": "#adcf38"
 			}
 		},
 		{
@@ -310,7 +310,7 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"background": "#AE81FF00",
-				"foreground": "#255E22"
+				"foreground": "#adcf38"
 			}
 		},
 		{

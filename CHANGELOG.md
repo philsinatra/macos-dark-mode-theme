@@ -7,6 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 2018-11-14
 
 - Update Generic Variable Parameter Color
+- Update Invalid/Depreciated  Color
 
 ## 2018-10-24
 
