@@ -242,7 +242,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#e1efff"
 			}
 		},
 		{
