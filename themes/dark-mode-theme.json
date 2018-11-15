@@ -448,6 +448,13 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT] - Template Expressions",
+			"scope": "punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js",
+			"settings": {
+				"foreground": "#9effff"
+			}
+		},
+		{
 			"name": "[CSS] - Entity",
 			"scope": ["source.css entity", "source.stylus entity"],
 			"settings": {
