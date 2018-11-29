@@ -55,7 +55,7 @@
 
 		"list.activeSelectionBackground": "#65676b",
 		"list.activeSelectionForeground": "#ffffff",
-		"list.dropBackground": "#dedcde",
+		"list.dropBackground": "#1e1e1e",
 		"list.errorForeground": "#d9d9d9",
 		"list.focusBackground": "#6c6d6c",
 		"list.focusForeground": "#d9d9d9",
