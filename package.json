@@ -2,7 +2,7 @@
   "name": "macos-dark-mode-theme",
   "displayName": "Dark Mode",
   "description": "A VSCode theme based on macOS Dark Mode",
-  "version": "0.2.7",
+  "version": "1.0.0",
   "publisher": "philsinatra",
   "engines": {
     "vscode": "^1.25.0"
