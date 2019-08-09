@@ -106,7 +106,7 @@
     "settings.textInputBorder": "#111111",
 
     "sideBar.background": "#2c2d2f",
-    "sideBar.border": "#111111",
+    "sideBar.border": "#2c2d2f",
     "sideBar.dropBackground": "#f9f5f5",
     "sideBar.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#2d2f32",

@@ -4,6 +4,14 @@ All notable changes to the "macos-dark-mode-theme" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2019-08-09
+
+- 💄 Change SideBar Border Color
+
+## 2019-08-08
+
+- 💄 Update Tab & Workbench Background Colors
+
 ## 2019-01-17
 
 - 💄 Update `findMatchBackground|Border` Colors
