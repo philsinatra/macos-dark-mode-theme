@@ -4,6 +4,10 @@ All notable changes to the "macos-dark-mode-theme" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2022-03-10
+
+- 💄 Adjust Blacks, Whites, Editor Borders, & Selection Background
+
 ## 2019-08-09
 
 - 💄 Change SideBar Border Color
