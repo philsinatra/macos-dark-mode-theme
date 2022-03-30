@@ -1,7 +1,7 @@
 {
   "name": "macos-dark-mode-theme",
   "displayName": "Dark Mode",
-  "description": "A VSCode theme based on macOS Dark Mode",
+  "description": "A VSCode theme based on dark mode",
   "version": "1.0.4",
   "publisher": "philsinatra",
   "engines": {
@@ -79,6 +79,11 @@
         "label": "Dark Mode Warm",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-mode-warm-theme.json"
+      },
+      {
+        "label": "Dark Mode MDN",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-mode-mdn-theme.json"
       }
     ],
     "iconThemes": [
