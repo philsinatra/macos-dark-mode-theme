@@ -7,6 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 2022-03-30
 
 - 🔖 Add MDN inspired theme
+- Fix raw markdown color
 
 ## 2022-03-10
 
