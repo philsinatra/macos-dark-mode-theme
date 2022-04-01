@@ -4,6 +4,10 @@ All notable changes to the "macos-dark-mode-theme" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2022-04-01
+
+- 💄 Change String Green to Granite Green
+
 ## 2022-03-31
 
 - Change CSS variable argument color
